@@ -1,4 +1,4 @@
-# react-native-quick-admob [![npm](https://img.shields.io/npm/v/react-native-admob.svg)](https://www.npmjs.com/package/react-native-quick-admob) [![npm (next)](https://img.shields.io/badge/npm-baochau9xx-blue)](https://www.npmjs.com/package/react-native-quick-admob)
+# react-native-quick-admob [![npm](https://img.shields.io/badge/npm-v1.0.0-brightgreen)](https://www.npmjs.com/package/react-native-quick-admob) [![npm (next)](https://img.shields.io/badge/npm-baochau9xx-blue)](https://www.npmjs.com/package/react-native-quick-admob)
 
 ## Installation
 
