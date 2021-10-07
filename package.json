@@ -1,0 +1,28 @@
+{
+    "name": "react-native-quick-admob",
+    "version": "1.0.0",
+    "description": "This is a support library for React Native. It helps to integrate ads from Google Admob faster!",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "test": "npm i react-native-quick-admob"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chaudev/react-native-quick-admob.git"
+    },
+    "keywords": [
+        "react-native-quick-admob",
+        "react-native-admob",
+        "android-admob",
+        "baochau9xx",
+        "baochau"
+    ],
+    "author": "NGUYEN PHUC BAO CHAU (baochau9xx, chaudev)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/chaudev/react-native-quick-admob/issues"
+    },
+    "homepage": "https://github.com/chaudev/react-native-quick-admob#readme"
+}
